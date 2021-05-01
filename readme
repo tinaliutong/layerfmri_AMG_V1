@@ -1,0 +1,32 @@
+Scripts used in the analysis of the paper: Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. Layer-specific modulation of visual responses in human visual cortex by emotional faces.
+
+
+1) Preprocessing:
+
+1.1) 3T BOLD preprocessing pipeline: ‘meDicom2Nifti.m’, ‘mePreProc.m’, and ‘meAfni2MLR.m’
+"meDicom2Nifti.m" converts the dicom images to nifti format.
+"mePreProc.m" applies the AFNI software program afni_proc.py for standard preprocessing of the time series. Advanced automatic denoising was achieved using multi-echo EPI imaging and analysis with spatial independent component analysis (ICA), or ME-ICA.
+"meAfni2MLR.m" copies the output of afni's multi echo pipeline to mrLoadRet. 
+
+1.2) 7T BOLD preprocessing pipeline: ‘MotionComp’ in mrTools/mrLoadRet (https://github.com/justingardner/mrTools/tree/master/mrLoadRet/Analysis/MotionComp)
+Preprocessing of 7T BOLD data included head movement compensation within and across runs, linearly detrended, and high-pass filtered (cutoff: 0.01 Hz) to remove low-frequency noise and drift. 
+
+1.3) 7T VASO preprocessing pipeline: A combination of ‘MotionComp’ in mrTools/mrLoadRet (https://github.com/justingardner/mrTools/tree/master/mrLoadRet/Analysis/MotionComp) and customized code (https://github.com/tinaliutong/layerfmri_AMG_V1/blob/main/analysisCode_Fig.2.m)
+
+
+2) Occipital atlas pipeline: A combination of the occipital atlas pipeline (https://hub.docker.com/r/nben/occipital_atlas/) and customized code (https://github.com/tinaliutong/layerfmri_AMG_V1/blob/main/analysisCode_Fig1.m)
+
+2.1) The occipital atlas pipeline applies Benson-2014 v3.0 retinotopy atlas and Wang-2015 probabilistic atlas to a FreeSurfer subject. 
+
+2.1.1) Benson-2014 v3.0 retinotopy atlas outputs eccentricity map, polar angle map, and area map per subject. 
+
+2.1.2) Wang-2015 probabilistic atlas outputs 25 ROI labels per hemisphere per subject ("V1v", "V1d", "V2v", "V2d", "V3v", "V3d", "hV4", "VO1", "VO2", "PHC1", "PHC2", "V3A", "V3B", "LO1", "LO2", "TO1", "TO2", "IPS0", "IPS1", "IPS2", "IPS3", "IPS4", "IPS5", "SPL1", "hFEF"). 
+
+2.2) The customized code first combines visual areas with the same area label across hemisphere with IPS1-5, LO1-LO2, PHC1-PHC2, TO1-TO2, V1d-V1v, V2d-V2v, V3A-V3B, V3d-V3v, VO1-VO2 further combined
+
+
+3) VASO-specific analysis pipeline: A combination of customized code (https://github.com/tinaliutong/layerfmri_AMG_V1/makeVasoAnatInterp) and the LayNii software (https://github.com/layerfMRI/LAYNII).
+
+3.1) "makeVasoAnatInterp.m" first generate the VASO anatomy, then spatially upsample the VASO anatomy by a factor of 4 in the in-plane voxel dimensions (X and Y directions) to avoid singularities at the edges in angular voxel space. 
+
+3.2) The LN_GROW_LAYERS program in the LayNii software (https://github.com/layerfMRI/LAYNII) estimates twenty-one cortical depths between the two boundaries (Fig. 2e-f). Note that we do not assume that these 21 layers are statistically independent measurements.
