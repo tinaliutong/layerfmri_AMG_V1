@@ -1,0 +1,676 @@
+﻿SubjID,ROI,Condition,Y
+S1 (7T & 3T),V1,Fear,1.2725
+S1 (7T & 3T),V2,Fear,1.7155
+S1 (7T & 3T),V3,Fear,1.3825
+S1 (7T & 3T),V3AB,Fear,0.3785
+S1 (7T & 3T),hV4,Fear,2.0110
+S1 (7T & 3T),LO,Fear,0.9870
+S1 (7T & 3T),VO,Fear,0.5820
+S1 (7T & 3T),TO,Fear,0.4665
+S1 (7T & 3T),PHC,Fear,0.0245
+S1 (7T & 3T),IPS0,Fear,0.6870
+S1 (7T & 3T),IPS1-5,Fear,0.9295
+S1 (7T & 3T),SPL,Fear,0.2395
+S1 (7T & 3T),FEF,Fear,2.1180
+S1 (7T & 3T),AMG,Fear,0.0845
+S1 (7T & 3T),FFA,Fear,2.5638
+S1 (7T & 3T),V1,Happy,1.2270
+S1 (7T & 3T),V2,Happy,1.7260
+S1 (7T & 3T),V3,Happy,1.3490
+S1 (7T & 3T),V3AB,Happy,0.3705
+S1 (7T & 3T),hV4,Happy,1.9375
+S1 (7T & 3T),LO,Happy,1.0045
+S1 (7T & 3T),VO,Happy,0.5145
+S1 (7T & 3T),TO,Happy,0.4230
+S1 (7T & 3T),PHC,Happy,0.1535
+S1 (7T & 3T),IPS0,Happy,0.6790
+S1 (7T & 3T),IPS1-5,Happy,1.1225
+S1 (7T & 3T),SPL,Happy,0.2900
+S1 (7T & 3T),FEF,Happy,0.9870
+S1 (7T & 3T),AMG,Happy,0.1604
+S1 (7T & 3T),FFA,Happy,2.4912
+S1 (7T & 3T),V1,Neutral,1.1210
+S1 (7T & 3T),V2,Neutral,1.5130
+S1 (7T & 3T),V3,Neutral,1.2035
+S1 (7T & 3T),V3AB,Neutral,0.1900
+S1 (7T & 3T),hV4,Neutral,1.7660
+S1 (7T & 3T),LO,Neutral,0.8730
+S1 (7T & 3T),VO,Neutral,0.3895
+S1 (7T & 3T),TO,Neutral,0.3040
+S1 (7T & 3T),PHC,Neutral,0.0745
+S1 (7T & 3T),IPS0,Neutral,0.4740
+S1 (7T & 3T),IPS1-5,Neutral,0.7340
+S1 (7T & 3T),SPL,Neutral,0.2200
+S1 (7T & 3T),FEF,Neutral,2.3000
+S1 (7T & 3T),AMG,Neutral,0.0038
+S1 (7T & 3T),FFA,Neutral,2.3280
+S2 (7T),V1,Fear,2.2010
+S2 (7T),V2,Fear,2.7080
+S2 (7T),V3,Fear,3.0150
+S2 (7T),V3AB,Fear,2.2120
+S2 (7T),hV4,Fear,2.9870
+S2 (7T),LO,Fear,2.7290
+S2 (7T),VO,Fear,2.2000
+S2 (7T),TO,Fear,1.8400
+S2 (7T),PHC,Fear,0.9790
+S2 (7T),IPS0,Fear,1.1820
+S2 (7T),IPS1-5,Fear,1.5290
+S2 (7T),SPL,Fear,NaN
+S2 (7T),FEF,Fear,NaN
+S2 (7T),AMG,Fear,0.6198
+S2 (7T),FFA,Fear,4.2650
+S2 (7T),V1,Happy,2.3090
+S2 (7T),V2,Happy,2.8110
+S2 (7T),V3,Happy,3.1290
+S2 (7T),V3AB,Happy,2.3590
+S2 (7T),hV4,Happy,3.0620
+S2 (7T),LO,Happy,2.8420
+S2 (7T),VO,Happy,2.2400
+S2 (7T),TO,Happy,1.8960
+S2 (7T),PHC,Happy,0.9840
+S2 (7T),IPS0,Happy,1.3040
+S2 (7T),IPS1-5,Happy,1.8280
+S2 (7T),SPL,Happy,NaN
+S2 (7T),FEF,Happy,NaN
+S2 (7T),AMG,Happy,0.4291
+S2 (7T),FFA,Happy,4.2093
+S2 (7T),V1,Neutral,1.8790
+S2 (7T),V2,Neutral,2.4130
+S2 (7T),V3,Neutral,2.6990
+S2 (7T),V3AB,Neutral,2.1320
+S2 (7T),hV4,Neutral,2.7120
+S2 (7T),LO,Neutral,2.4440
+S2 (7T),VO,Neutral,1.9960
+S2 (7T),TO,Neutral,1.7920
+S2 (7T),PHC,Neutral,0.8120
+S2 (7T),IPS0,Neutral,1.1610
+S2 (7T),IPS1-5,Neutral,1.1430
+S2 (7T),SPL,Neutral,NaN
+S2 (7T),FEF,Neutral,NaN
+S2 (7T),AMG,Neutral,0.5991
+S2 (7T),FFA,Neutral,4.1989
+S3 (7T & 3T),V1,Fear,0.5230
+S3 (7T & 3T),V2,Fear,0.2460
+S3 (7T & 3T),V3,Fear,1.1950
+S3 (7T & 3T),V3AB,Fear,0.1130
+S3 (7T & 3T),hV4,Fear,1.8370
+S3 (7T & 3T),LO,Fear,1.8380
+S3 (7T & 3T),VO,Fear,0.6970
+S3 (7T & 3T),TO,Fear,0.3950
+S3 (7T & 3T),PHC,Fear,0.5390
+S3 (7T & 3T),IPS0,Fear,0.6735
+S3 (7T & 3T),IPS1-5,Fear,1.5770
+S3 (7T & 3T),SPL,Fear,-0.3150
+S3 (7T & 3T),FEF,Fear,NaN
+S3 (7T & 3T),AMG,Fear,0.1601
+S3 (7T & 3T),FFA,Fear,2.5410
+S3 (7T & 3T),V1,Happy,0.5370
+S3 (7T & 3T),V2,Happy,0.2120
+S3 (7T & 3T),V3,Happy,1.2020
+S3 (7T & 3T),V3AB,Happy,-0.0405
+S3 (7T & 3T),hV4,Happy,1.8275
+S3 (7T & 3T),LO,Happy,1.8480
+S3 (7T & 3T),VO,Happy,0.5545
+S3 (7T & 3T),TO,Happy,0.2825
+S3 (7T & 3T),PHC,Happy,0.3520
+S3 (7T & 3T),IPS0,Happy,0.4665
+S3 (7T & 3T),IPS1-5,Happy,1.3690
+S3 (7T & 3T),SPL,Happy,-0.6430
+S3 (7T & 3T),FEF,Happy,NaN
+S3 (7T & 3T),AMG,Happy,0.0822
+S3 (7T & 3T),FFA,Happy,2.3832
+S3 (7T & 3T),V1,Neutral,0.5440
+S3 (7T & 3T),V2,Neutral,0.2635
+S3 (7T & 3T),V3,Neutral,1.1295
+S3 (7T & 3T),V3AB,Neutral,0.0955
+S3 (7T & 3T),hV4,Neutral,1.8635
+S3 (7T & 3T),LO,Neutral,1.7350
+S3 (7T & 3T),VO,Neutral,0.6945
+S3 (7T & 3T),TO,Neutral,0.4040
+S3 (7T & 3T),PHC,Neutral,0.5250
+S3 (7T & 3T),IPS0,Neutral,0.7215
+S3 (7T & 3T),IPS1-5,Neutral,1.5490
+S3 (7T & 3T),SPL,Neutral,-0.4650
+S3 (7T & 3T),FEF,Neutral,NaN
+S3 (7T & 3T),AMG,Neutral,0.0602
+S3 (7T & 3T),FFA,Neutral,2.4643
+S4 (7T & 3T),V1,Fear,1.9375
+S4 (7T & 3T),V2,Fear,0.708
+S4 (7T & 3T),V3,Fear,1.191
+S4 (7T & 3T),V3AB,Fear,0.901
+S4 (7T & 3T),hV4,Fear,1.849
+S4 (7T & 3T),LO,Fear,1.695
+S4 (7T & 3T),VO,Fear,1.117
+S4 (7T & 3T),TO,Fear,0.2
+S4 (7T & 3T),PHC,Fear,0.0385
+S4 (7T & 3T),IPS0,Fear,1.3075
+S4 (7T & 3T),IPS1-5,Fear,-0.081
+S4 (7T & 3T),SPL,Fear,-0.403
+S4 (7T & 3T),FEF,Fear,NaN
+S4 (7T & 3T),AMG,Fear,0.1247
+S4 (7T & 3T),FFA,Fear,2.3085
+S4 (7T & 3T),V1,Happy,1.8075
+S4 (7T & 3T),V2,Happy,0.523
+S4 (7T & 3T),V3,Happy,0.896
+S4 (7T & 3T),V3AB,Happy,0.5875
+S4 (7T & 3T),hV4,Happy,1.4775
+S4 (7T & 3T),LO,Happy,1.439
+S4 (7T & 3T),VO,Happy,0.85
+S4 (7T & 3T),TO,Happy,0.046
+S4 (7T & 3T),PHC,Happy,-0.0285
+S4 (7T & 3T),IPS0,Happy,1.0575
+S4 (7T & 3T),IPS1-5,Happy,-0.126
+S4 (7T & 3T),SPL,Happy,-0.41
+S4 (7T & 3T),FEF,Happy,NaN
+S4 (7T & 3T),AMG,Happy,-0.0771
+S4 (7T & 3T),FFA,Happy,2.115
+S4 (7T & 3T),V1,Neutral,1.9055
+S4 (7T & 3T),V2,Neutral,0.6515
+S4 (7T & 3T),V3,Neutral,1.013
+S4 (7T & 3T),V3AB,Neutral,0.5965
+S4 (7T & 3T),hV4,Neutral,1.6285
+S4 (7T & 3T),LO,Neutral,1.3765
+S4 (7T & 3T),VO,Neutral,1.0105
+S4 (7T & 3T),TO,Neutral,0.0545
+S4 (7T & 3T),PHC,Neutral,0.055
+S4 (7T & 3T),IPS0,Neutral,1.1055
+S4 (7T & 3T),IPS1-5,Neutral,0.05
+S4 (7T & 3T),SPL,Neutral,-0.373
+S4 (7T & 3T),FEF,Neutral,NaN
+S4 (7T & 3T),AMG,Neutral,-0.1268
+S4 (7T & 3T),FFA,Neutral,1.9042
+S9 (7T & 3T),V1,Fear,0.8695
+S9 (7T & 3T),V2,Fear,1.0135
+S9 (7T & 3T),V3,Fear,1.333
+S9 (7T & 3T),V3AB,Fear,1.1045
+S9 (7T & 3T),hV4,Fear,2.4285
+S9 (7T & 3T),LO,Fear,1.366
+S9 (7T & 3T),VO,Fear,1.6465
+S9 (7T & 3T),TO,Fear,0.4505
+S9 (7T & 3T),PHC,Fear,1.1965
+S9 (7T & 3T),IPS0,Fear,1.064
+S9 (7T & 3T),IPS1-5,Fear,1.366
+S9 (7T & 3T),SPL,Fear,NaN
+S9 (7T & 3T),FEF,Fear,0.649
+S9 (7T & 3T),AMG,Fear,0.4329
+S9 (7T & 3T),FFA,Fear,2.7832
+S9 (7T & 3T),V1,Happy,0.7925
+S9 (7T & 3T),V2,Happy,0.898
+S9 (7T & 3T),V3,Happy,1.264
+S9 (7T & 3T),V3AB,Happy,0.9735
+S9 (7T & 3T),hV4,Happy,2.24
+S9 (7T & 3T),LO,Happy,1.218
+S9 (7T & 3T),VO,Happy,1.477
+S9 (7T & 3T),TO,Happy,0.323
+S9 (7T & 3T),PHC,Happy,1.0905
+S9 (7T & 3T),IPS0,Happy,0.9165
+S9 (7T & 3T),IPS1-5,Happy,1.1485
+S9 (7T & 3T),SPL,Happy,NaN
+S9 (7T & 3T),FEF,Happy,0.66
+S9 (7T & 3T),AMG,Happy,0.4801
+S9 (7T & 3T),FFA,Happy,2.6241
+S9 (7T & 3T),V1,Neutral,0.7325
+S9 (7T & 3T),V2,Neutral,0.831
+S9 (7T & 3T),V3,Neutral,1.179
+S9 (7T & 3T),V3AB,Neutral,0.9845
+S9 (7T & 3T),hV4,Neutral,2.2705
+S9 (7T & 3T),LO,Neutral,1.2505
+S9 (7T & 3T),VO,Neutral,1.4675
+S9 (7T & 3T),TO,Neutral,0.4515
+S9 (7T & 3T),PHC,Neutral,1.09
+S9 (7T & 3T),IPS0,Neutral,0.994
+S9 (7T & 3T),IPS1-5,Neutral,1.3115
+S9 (7T & 3T),SPL,Neutral,NaN
+S9 (7T & 3T),FEF,Neutral,0.631
+S9 (7T & 3T),AMG,Neutral,0.3119
+S9 (7T & 3T),FFA,Neutral,2.6313
+S11 (3T),V1,Fear,0.0973
+S11 (3T),V2,Fear,0.0497
+S11 (3T),V3,Fear,0.4392
+S11 (3T),V3AB,Fear,-0.1414
+S11 (3T),hV4,Fear,0.7753
+S11 (3T),LO,Fear,0.9074
+S11 (3T),VO,Fear,0.2255
+S11 (3T),TO,Fear,0.7563
+S11 (3T),PHC,Fear,0.0168
+S11 (3T),IPS0,Fear,0.5491
+S11 (3T),IPS1-5,Fear,0.5681
+S11 (3T),SPL,Fear,0.0281
+S11 (3T),FEF,Fear,1.3349
+S11 (3T),AMG,Fear,0.3699
+S11 (3T),FFA,Fear,1.6401
+S11 (3T),V1,Happy,-0.1857
+S11 (3T),V2,Happy,-0.2077
+S11 (3T),V3,Happy,0.1699
+S11 (3T),V3AB,Happy,-0.397
+S11 (3T),hV4,Happy,0.7145
+S11 (3T),LO,Happy,0.6111
+S11 (3T),VO,Happy,-0.1212
+S11 (3T),TO,Happy,0.6273
+S11 (3T),PHC,Happy,-0.1978
+S11 (3T),IPS0,Happy,0.4305
+S11 (3T),IPS1-5,Happy,0.6755
+S11 (3T),SPL,Happy,0.3036
+S11 (3T),FEF,Happy,1.231
+S11 (3T),AMG,Happy,0.3336
+S11 (3T),FFA,Happy,1.5475
+S11 (3T),V1,Neutral,-0.2307
+S11 (3T),V2,Neutral,-0.3036
+S11 (3T),V3,Neutral,0.0648
+S11 (3T),V3AB,Neutral,-0.4845
+S11 (3T),hV4,Neutral,0.5598
+S11 (3T),LO,Neutral,0.4572
+S11 (3T),VO,Neutral,-0.2065
+S11 (3T),TO,Neutral,0.4361
+S11 (3T),PHC,Neutral,-0.2704
+S11 (3T),IPS0,Neutral,0.2925
+S11 (3T),IPS1-5,Neutral,0.4348
+S11 (3T),SPL,Neutral,-0.0828
+S11 (3T),FEF,Neutral,0.9564
+S11 (3T),AMG,Neutral,0.2541
+S11 (3T),FFA,Neutral,1.4041
+S12 (7T),V1,Fear,0.926
+S12 (7T),V2,Fear,0.658
+S12 (7T),V3,Fear,2.403
+S12 (7T),V3AB,Fear,0.677
+S12 (7T),hV4,Fear,1.962
+S12 (7T),LO,Fear,1.682
+S12 (7T),VO,Fear,0.217
+S12 (7T),TO,Fear,1.338
+S12 (7T),PHC,Fear,0.014
+S12 (7T),IPS0,Fear,0.376
+S12 (7T),IPS1-5,Fear,NaN
+S12 (7T),SPL,Fear,NaN
+S12 (7T),FEF,Fear,NaN
+S12 (7T),AMG,Fear,0.5017
+S12 (7T),FFA,Fear,4.2104
+S12 (7T),V1,Happy,1.161
+S12 (7T),V2,Happy,0.931
+S12 (7T),V3,Happy,2.522
+S12 (7T),V3AB,Happy,0.803
+S12 (7T),hV4,Happy,1.895
+S12 (7T),LO,Happy,1.714
+S12 (7T),VO,Happy,0.3
+S12 (7T),TO,Happy,1.264
+S12 (7T),PHC,Happy,0.113
+S12 (7T),IPS0,Happy,0.444
+S12 (7T),IPS1-5,Happy,NaN
+S12 (7T),SPL,Happy,NaN
+S12 (7T),FEF,Happy,NaN
+S12 (7T),AMG,Happy,0.2269
+S12 (7T),FFA,Happy,4.1421
+S12 (7T),V1,Neutral,0.703
+S12 (7T),V2,Neutral,0.535
+S12 (7T),V3,Neutral,2.026
+S12 (7T),V3AB,Neutral,0.442
+S12 (7T),hV4,Neutral,1.371
+S12 (7T),LO,Neutral,1.413
+S12 (7T),VO,Neutral,0.042
+S12 (7T),TO,Neutral,1.032
+S12 (7T),PHC,Neutral,-0.104
+S12 (7T),IPS0,Neutral,0.145
+S12 (7T),IPS1-5,Neutral,NaN
+S12 (7T),SPL,Neutral,NaN
+S12 (7T),FEF,Neutral,NaN
+S12 (7T),AMG,Neutral,0.1438
+S12 (7T),FFA,Neutral,3.2297
+S13 (3T),V1,Fear,0.5587
+S13 (3T),V2,Fear,0.2743
+S13 (3T),V3,Fear,0.8037
+S13 (3T),V3AB,Fear,0.0345
+S13 (3T),hV4,Fear,0.4035
+S13 (3T),LO,Fear,0.8559
+S13 (3T),VO,Fear,-0.0983
+S13 (3T),TO,Fear,0.603
+S13 (3T),PHC,Fear,-0.0724
+S13 (3T),IPS0,Fear,0.4598
+S13 (3T),IPS1-5,Fear,0.6462
+S13 (3T),SPL,Fear,0.7515
+S13 (3T),FEF,Fear,0.7515
+S13 (3T),AMG,Fear,0.6684
+S13 (3T),FFA,Fear,1.5382
+S13 (3T),V1,Happy,0.5239
+S13 (3T),V2,Happy,0.2742
+S13 (3T),V3,Happy,0.724
+S13 (3T),V3AB,Happy,0.1033
+S13 (3T),hV4,Happy,0.4166
+S13 (3T),LO,Happy,0.8083
+S13 (3T),VO,Happy,0.0043
+S13 (3T),TO,Happy,0.5653
+S13 (3T),PHC,Happy,0.0017
+S13 (3T),IPS0,Happy,0.4694
+S13 (3T),IPS1-5,Happy,0.697
+S13 (3T),SPL,Happy,0.8203
+S13 (3T),FEF,Happy,0.8203
+S13 (3T),AMG,Happy,0.4471
+S13 (3T),FFA,Happy,1.5256
+S13 (3T),V1,Neutral,0.41
+S13 (3T),V2,Neutral,0.1784
+S13 (3T),V3,Neutral,0.608
+S13 (3T),V3AB,Neutral,-0.0331
+S13 (3T),hV4,Neutral,0.2387
+S13 (3T),LO,Neutral,0.6968
+S13 (3T),VO,Neutral,-0.2056
+S13 (3T),TO,Neutral,0.4532
+S13 (3T),PHC,Neutral,-0.1383
+S13 (3T),IPS0,Neutral,0.3276
+S13 (3T),IPS1-5,Neutral,0.4049
+S13 (3T),SPL,Neutral,0.7521
+S13 (3T),FEF,Neutral,0.7521
+S13 (3T),AMG,Neutral,0.0893
+S13 (3T),FFA,Neutral,1.21
+S14 (3T),V1,Fear,-0.15
+S14 (3T),V2,Fear,-0.2457
+S14 (3T),V3,Fear,0.0048
+S14 (3T),V3AB,Fear,-0.6405
+S14 (3T),hV4,Fear,0.459
+S14 (3T),LO,Fear,0.6153
+S14 (3T),VO,Fear,-0.4889
+S14 (3T),TO,Fear,0.3101
+S14 (3T),PHC,Fear,-0.6187
+S14 (3T),IPS0,Fear,0.0291
+S14 (3T),IPS1-5,Fear,-0.1438
+S14 (3T),SPL,Fear,-0.745
+S14 (3T),FEF,Fear,0.7108
+S14 (3T),AMG,Fear,0.28
+S14 (3T),FFA,Fear,1.0926
+S14 (3T),V1,Happy,-0.1259
+S14 (3T),V2,Happy,-0.1178
+S14 (3T),V3,Happy,0.1059
+S14 (3T),V3AB,Happy,-0.5551
+S14 (3T),hV4,Happy,0.4816
+S14 (3T),LO,Happy,0.6506
+S14 (3T),VO,Happy,-0.4332
+S14 (3T),TO,Happy,0.306
+S14 (3T),PHC,Happy,-0.5245
+S14 (3T),IPS0,Happy,0.0067
+S14 (3T),IPS1-5,Happy,-0.1838
+S14 (3T),SPL,Happy,-0.8264
+S14 (3T),FEF,Happy,0.5796
+S14 (3T),AMG,Happy,0.143
+S14 (3T),FFA,Happy,1.0072
+S14 (3T),V1,Neutral,-0.1806
+S14 (3T),V2,Neutral,-0.2772
+S14 (3T),V3,Neutral,-0.047
+S14 (3T),V3AB,Neutral,-0.6884
+S14 (3T),hV4,Neutral,0.3669
+S14 (3T),LO,Neutral,0.5267
+S14 (3T),VO,Neutral,-0.5771
+S14 (3T),TO,Neutral,0.2024
+S14 (3T),PHC,Neutral,-0.6519
+S14 (3T),IPS0,Neutral,-0.0105
+S14 (3T),IPS1-5,Neutral,-0.209
+S14 (3T),SPL,Neutral,-0.8439
+S14 (3T),FEF,Neutral,0.6632
+S14 (3T),AMG,Neutral,0.232
+S14 (3T),FFA,Neutral,0.981
+S15 (7T & 3T),V1,Fear,1.159
+S15 (7T & 3T),V2,Fear,0.3765
+S15 (7T & 3T),V3,Fear,0.705
+S15 (7T & 3T),V3AB,Fear,0.506
+S15 (7T & 3T),hV4,Fear,1.78
+S15 (7T & 3T),LO,Fear,0.5895
+S15 (7T & 3T),VO,Fear,0.6695
+S15 (7T & 3T),TO,Fear,0.119
+S15 (7T & 3T),PHC,Fear,-0.096
+S15 (7T & 3T),IPS0,Fear,0.0955
+S15 (7T & 3T),IPS1-5,Fear,-0.1945
+S15 (7T & 3T),SPL,Fear,0.138
+S15 (7T & 3T),FEF,Fear,1.7745
+S15 (7T & 3T),AMG,Fear,0.5538
+S15 (7T & 3T),FFA,Fear,2.333
+S15 (7T & 3T),V1,Happy,1.093
+S15 (7T & 3T),V2,Happy,0.401
+S15 (7T & 3T),V3,Happy,0.7875
+S15 (7T & 3T),V3AB,Happy,0.4805
+S15 (7T & 3T),hV4,Happy,1.7655
+S15 (7T & 3T),LO,Happy,0.7225
+S15 (7T & 3T),VO,Happy,0.653
+S15 (7T & 3T),TO,Happy,0.2195
+S15 (7T & 3T),PHC,Happy,-0.1105
+S15 (7T & 3T),IPS0,Happy,0.0145
+S15 (7T & 3T),IPS1-5,Happy,-0.512
+S15 (7T & 3T),SPL,Happy,0.128
+S15 (7T & 3T),FEF,Happy,1.6945
+S15 (7T & 3T),AMG,Happy,0.5543
+S15 (7T & 3T),FFA,Happy,2.3025
+S15 (7T & 3T),V1,Neutral,1.025
+S15 (7T & 3T),V2,Neutral,0.245
+S15 (7T & 3T),V3,Neutral,0.6025
+S15 (7T & 3T),V3AB,Neutral,0.422
+S15 (7T & 3T),hV4,Neutral,1.5865
+S15 (7T & 3T),LO,Neutral,0.585
+S15 (7T & 3T),VO,Neutral,0.51
+S15 (7T & 3T),TO,Neutral,0.006
+S15 (7T & 3T),PHC,Neutral,-0.231
+S15 (7T & 3T),IPS0,Neutral,0.0655
+S15 (7T & 3T),IPS1-5,Neutral,-0.3975
+S15 (7T & 3T),SPL,Neutral,0.175
+S15 (7T & 3T),FEF,Neutral,1.782
+S15 (7T & 3T),AMG,Neutral,0.3272
+S15 (7T & 3T),FFA,Neutral,2.135
+S16 (7T),V1,Fear,3.552
+S16 (7T),V2,Fear,1.82
+S16 (7T),V3,Fear,3.221
+S16 (7T),V3AB,Fear,1.48
+S16 (7T),hV4,Fear,3.586
+S16 (7T),LO,Fear,1.606
+S16 (7T),VO,Fear,1.16
+S16 (7T),TO,Fear,NaN
+S16 (7T),PHC,Fear,-0.193
+S16 (7T),IPS0,Fear,1.051
+S16 (7T),IPS1-5,Fear,NaN
+S16 (7T),SPL,Fear,NaN
+S16 (7T),FEF,Fear,NaN
+S16 (7T),AMG,Fear,1.273
+S16 (7T),FFA,Fear,3.771
+S16 (7T),V1,Happy,3.843
+S16 (7T),V2,Happy,1.618
+S16 (7T),V3,Happy,3.124
+S16 (7T),V3AB,Happy,1.367
+S16 (7T),hV4,Happy,3.386
+S16 (7T),LO,Happy,1.541
+S16 (7T),VO,Happy,0.754
+S16 (7T),TO,Happy,NaN
+S16 (7T),PHC,Happy,-1.019
+S16 (7T),IPS0,Happy,0.851
+S16 (7T),IPS1-5,Happy,NaN
+S16 (7T),SPL,Happy,NaN
+S16 (7T),FEF,Happy,NaN
+S16 (7T),AMG,Happy,0.9342
+S16 (7T),FFA,Happy,3.7765
+S16 (7T),V1,Neutral,3.393
+S16 (7T),V2,Neutral,1.353
+S16 (7T),V3,Neutral,2.851
+S16 (7T),V3AB,Neutral,1.382
+S16 (7T),hV4,Neutral,3.161
+S16 (7T),LO,Neutral,1.467
+S16 (7T),VO,Neutral,0.71
+S16 (7T),TO,Neutral,NaN
+S16 (7T),PHC,Neutral,-0.861
+S16 (7T),IPS0,Neutral,0.78
+S16 (7T),IPS1-5,Neutral,NaN
+S16 (7T),SPL,Neutral,NaN
+S16 (7T),FEF,Neutral,NaN
+S16 (7T),AMG,Neutral,1.19
+S16 (7T),FFA,Neutral,3.6817
+S17 (7T & 3T),V1,Fear,0.4645
+S17 (7T & 3T),V2,Fear,0.528
+S17 (7T & 3T),V3,Fear,1.144
+S17 (7T & 3T),V3AB,Fear,0.162
+S17 (7T & 3T),hV4,Fear,2.057
+S17 (7T & 3T),LO,Fear,1.3395
+S17 (7T & 3T),VO,Fear,0.863
+S17 (7T & 3T),TO,Fear,0.4265
+S17 (7T & 3T),PHC,Fear,0.609
+S17 (7T & 3T),IPS0,Fear,-0.1035
+S17 (7T & 3T),IPS1-5,Fear,-0.0135
+S17 (7T & 3T),SPL,Fear,0.318
+S17 (7T & 3T),FEF,Fear,0.903
+S17 (7T & 3T),AMG,Fear,0.4833
+S17 (7T & 3T),FFA,Fear,3.7734
+S17 (7T & 3T),V1,Happy,0.493
+S17 (7T & 3T),V2,Happy,0.4585
+S17 (7T & 3T),V3,Happy,1.087
+S17 (7T & 3T),V3AB,Happy,0.0545
+S17 (7T & 3T),hV4,Happy,1.8415
+S17 (7T & 3T),LO,Happy,1.267
+S17 (7T & 3T),VO,Happy,0.7215
+S17 (7T & 3T),TO,Happy,0.303
+S17 (7T & 3T),PHC,Happy,0.3635
+S17 (7T & 3T),IPS0,Happy,-0.1865
+S17 (7T & 3T),IPS1-5,Happy,-0.0245
+S17 (7T & 3T),SPL,Happy,0.21
+S17 (7T & 3T),FEF,Happy,0.843
+S17 (7T & 3T),AMG,Happy,0.4169
+S17 (7T & 3T),FFA,Happy,3.6296
+S17 (7T & 3T),V1,Neutral,0.4425
+S17 (7T & 3T),V2,Neutral,0.5015
+S17 (7T & 3T),V3,Neutral,1.118
+S17 (7T & 3T),V3AB,Neutral,0.2025
+S17 (7T & 3T),hV4,Neutral,2.0515
+S17 (7T & 3T),LO,Neutral,1.4105
+S17 (7T & 3T),VO,Neutral,0.93
+S17 (7T & 3T),TO,Neutral,0.4165
+S17 (7T & 3T),PHC,Neutral,0.593
+S17 (7T & 3T),IPS0,Neutral,-0.016
+S17 (7T & 3T),IPS1-5,Neutral,0.1125
+S17 (7T & 3T),SPL,Neutral,0.408
+S17 (7T & 3T),FEF,Neutral,1.029
+S17 (7T & 3T),AMG,Neutral,0.4595
+S17 (7T & 3T),FFA,Neutral,3.7286
+S18 (7T & 3T),V1,Fear,2.1955
+S18 (7T & 3T),V2,Fear,1.3135
+S18 (7T & 3T),V3,Fear,1.829
+S18 (7T & 3T),V3AB,Fear,0.4565
+S18 (7T & 3T),hV4,Fear,3.4235
+S18 (7T & 3T),LO,Fear,1.54
+S18 (7T & 3T),VO,Fear,1.876
+S18 (7T & 3T),TO,Fear,0.447
+S18 (7T & 3T),PHC,Fear,0.511
+S18 (7T & 3T),IPS0,Fear,0.4195
+S18 (7T & 3T),IPS1-5,Fear,0.8305
+S18 (7T & 3T),SPL,Fear,0.666
+S18 (7T & 3T),FEF,Fear,1.01
+S18 (7T & 3T),AMG,Fear,0.4973
+S18 (7T & 3T),FFA,Fear,3.2498
+S18 (7T & 3T),V1,Happy,2.3375
+S18 (7T & 3T),V2,Happy,1.3535
+S18 (7T & 3T),V3,Happy,1.7725
+S18 (7T & 3T),V3AB,Happy,0.365
+S18 (7T & 3T),hV4,Happy,3.264
+S18 (7T & 3T),LO,Happy,1.4765
+S18 (7T & 3T),VO,Happy,1.6205
+S18 (7T & 3T),TO,Happy,0.3425
+S18 (7T & 3T),PHC,Happy,0.319
+S18 (7T & 3T),IPS0,Happy,0.232
+S18 (7T & 3T),IPS1-5,Happy,0.4705
+S18 (7T & 3T),SPL,Happy,0.368
+S18 (7T & 3T),FEF,Happy,1.046
+S18 (7T & 3T),AMG,Happy,0.5455
+S18 (7T & 3T),FFA,Happy,3.191
+S18 (7T & 3T),V1,Neutral,2.213
+S18 (7T & 3T),V2,Neutral,1.2155
+S18 (7T & 3T),V3,Neutral,1.6935
+S18 (7T & 3T),V3AB,Neutral,0.373
+S18 (7T & 3T),hV4,Neutral,3.175
+S18 (7T & 3T),LO,Neutral,1.3365
+S18 (7T & 3T),VO,Neutral,1.596
+S18 (7T & 3T),TO,Neutral,0.4025
+S18 (7T & 3T),PHC,Neutral,0.3695
+S18 (7T & 3T),IPS0,Neutral,0.303
+S18 (7T & 3T),IPS1-5,Neutral,0.7035
+S18 (7T & 3T),SPL,Neutral,0.368
+S18 (7T & 3T),FEF,Neutral,1.021
+S18 (7T & 3T),AMG,Neutral,0.5355
+S18 (7T & 3T),FFA,Neutral,3.0425
+S20 (7T & 3T),V1,Fear,0.9875
+S20 (7T & 3T),V2,Fear,1.33
+S20 (7T & 3T),V3,Fear,1.957
+S20 (7T & 3T),V3AB,Fear,0.411
+S20 (7T & 3T),hV4,Fear,2.892
+S20 (7T & 3T),LO,Fear,2.492
+S20 (7T & 3T),VO,Fear,1.869
+S20 (7T & 3T),TO,Fear,1.9025
+S20 (7T & 3T),PHC,Fear,0.5485
+S20 (7T & 3T),IPS0,Fear,1.4485
+S20 (7T & 3T),IPS1-5,Fear,1.65
+S20 (7T & 3T),SPL,Fear,-0.149
+S20 (7T & 3T),FEF,Fear,1.556
+S20 (7T & 3T),AMG,Fear,0.7195
+S20 (7T & 3T),FFA,Fear,3.0472
+S20 (7T & 3T),V1,Happy,1.074
+S20 (7T & 3T),V2,Happy,1.375
+S20 (7T & 3T),V3,Happy,1.996
+S20 (7T & 3T),V3AB,Happy,0.467
+S20 (7T & 3T),hV4,Happy,2.8675
+S20 (7T & 3T),LO,Happy,2.491
+S20 (7T & 3T),VO,Happy,1.8195
+S20 (7T & 3T),TO,Happy,1.884
+S20 (7T & 3T),PHC,Happy,0.512
+S20 (7T & 3T),IPS0,Happy,1.404
+S20 (7T & 3T),IPS1-5,Happy,1.6535
+S20 (7T & 3T),SPL,Happy,-0.162
+S20 (7T & 3T),FEF,Happy,1.587
+S20 (7T & 3T),AMG,Happy,0.9442
+S20 (7T & 3T),FFA,Happy,3.0418
+S20 (7T & 3T),V1,Neutral,0.8865
+S20 (7T & 3T),V2,Neutral,1.216
+S20 (7T & 3T),V3,Neutral,1.787
+S20 (7T & 3T),V3AB,Neutral,0.393
+S20 (7T & 3T),hV4,Neutral,2.718
+S20 (7T & 3T),LO,Neutral,2.413
+S20 (7T & 3T),VO,Neutral,1.7395
+S20 (7T & 3T),TO,Neutral,1.928
+S20 (7T & 3T),PHC,Neutral,0.4085
+S20 (7T & 3T),IPS0,Neutral,1.4615
+S20 (7T & 3T),IPS1-5,Neutral,1.631
+S20 (7T & 3T),SPL,Neutral,-0.109
+S20 (7T & 3T),FEF,Neutral,1.585
+S20 (7T & 3T),AMG,Neutral,0.6009
+S20 (7T & 3T),FFA,Neutral,2.9692
+S24 (7T),V1,Fear,3.24
+S24 (7T),V2,Fear,2.873
+S24 (7T),V3,Fear,3.459
+S24 (7T),V3AB,Fear,1.725
+S24 (7T),hV4,Fear,4.208
+S24 (7T),LO,Fear,2.537
+S24 (7T),VO,Fear,3.245
+S24 (7T),TO,Fear,1.144
+S24 (7T),PHC,Fear,1.917
+S24 (7T),IPS0,Fear,0.74
+S24 (7T),IPS1-5,Fear,1.694
+S24 (7T),SPL,Fear,NaN
+S24 (7T),FEF,Fear,NaN
+S24 (7T),AMG,Fear,1.7985
+S24 (7T),FFA,Fear,5.4239
+S24 (7T),V1,Happy,3.41
+S24 (7T),V2,Happy,3.018
+S24 (7T),V3,Happy,3.577
+S24 (7T),V3AB,Happy,1.702
+S24 (7T),hV4,Happy,4.239
+S24 (7T),LO,Happy,2.614
+S24 (7T),VO,Happy,3.183
+S24 (7T),TO,Happy,0.994
+S24 (7T),PHC,Happy,1.669
+S24 (7T),IPS0,Happy,0.717
+S24 (7T),IPS1-5,Happy,1.668
+S24 (7T),SPL,Happy,NaN
+S24 (7T),FEF,Happy,NaN
+S24 (7T),AMG,Happy,1.5355
+S24 (7T),FFA,Happy,5.2244
+S24 (7T),V1,Neutral,3.24
+S24 (7T),V2,Neutral,2.864
+S24 (7T),V3,Neutral,3.426
+S24 (7T),V3AB,Neutral,1.842
+S24 (7T),hV4,Neutral,4.088
+S24 (7T),LO,Neutral,2.678
+S24 (7T),VO,Neutral,3.165
+S24 (7T),TO,Neutral,1.112
+S24 (7T),PHC,Neutral,1.76
+S24 (7T),IPS0,Neutral,0.953
+S24 (7T),IPS1-5,Neutral,1.978
+S24 (7T),SPL,Neutral,NaN
+S24 (7T),FEF,Neutral,NaN
+S24 (7T),AMG,Neutral,1.7334
+S24 (7T),FFA,Neutral,5.2092
