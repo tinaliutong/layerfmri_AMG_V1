@@ -406,38 +406,8 @@ for i=1:15 % subject
         % row: each subject
     end
 end
-%% amygdala-central V1 column, 1st row in figure
-k=2
-[p_AmgV1c_Fearful,h_AmgV1c_Fearful,stats_AmgV1c_Fearful] = signrank(AMGConn_fearful(:,k))
-[h_AmgV1c_F,p_AmgV1c_F,ci_AmgV1c_F,stats_AmgV1c_F] = ttest(AMGConn_fearful(:,k))
-[p_AmgV1c_Happy,h_AmgV1c_Happy,stats_AmgV1c_happy] = signrank(AMGConn_happy(:,k))
-[h_AmgV1c_H,p_AmgV1c_H,ci_AmgV1c_H,stats_AmgV1c_H] = ttest(AMGConn_happy(:,k))
-[p_AmgV1c_Neutral,h_AmgV1c_Neutral,stats_AmgV1c_Neutral] = signrank(AMGConn_neutral(:,k))
-[h_AmgV1c_N,p_AmgV1c_N,ci_AmgV1c_N,stats_AmgV1c_N] = ttest(AMGConn_neutral(:,k))
 
-% paired-sampes t-test
-k=2
-[h_AmgV1c_negaVal,p_AmgV1c_negaVal,ci_AmgV1c_negaVal,stats_AmgV1c_negaVal] = ttest(AMGConn_fearful(:,k),AMGConn_neutral(:,k))
-[h_AmgV1c_posiVal,p_AmgV1c_posiVal,ci_AmgV1c_posiVal,stats_AmgV1c_posiVal] = ttest(AMGConn_happy(:,k),AMGConn_neutral(:,k))
-p_AmgV1c_negaVal
-p_AmgV1c_negaVal*14
-
-k=3 %AMy-V1_peri
-[p_AmgV1p_Fearful,h_AmgV1p_Fearful,stats_AmgV1p_Fearful] = signrank(AMGConn_fearful(:,k))
-[h_AmgV1p_F,p_AmgV1p_F,ci_AmgV1p_F,stats_AmgV1p_F] = ttest(AMGConn_fearful(:,k))
-[p_AmgV1p_Happy,h_AmgV1p_Happy,stats_AmgV1p_happy] = signrank(AMGConn_happy(:,k))
-[h_AmgV1p_H,p_AmgV1p_H,ci_AmgV1p_H,stats_AmgV1p_H] = ttest(AMGConn_happy(:,k))
-[p_AmgV1p_Neutral,h_AmgV1p_Neutral,stats_AmgV1p_Neutral] = signrank(AMGConn_neutral(:,k))
-[h_AmgV1p_N,p_AmgV1p_N,ci_AmgV1p_N,stats_AmgV1p_N] = ttest(AMGConn_neutral(:,k))
-
-% paired-sampes t-test
-k=3 %AMy-V1_peri
-[h_AmgV1p_negaVal,p_AmgV1p_negaVal,ci_AmgV1p_negaVal,stats_AmgV1p_negaVal] = ttest(AMGConn_fearful(:,k),AMGConn_neutral(:,k))
-[h_AmgV1p_posiVal,p_AmgV1p_posiVal,ci_AmgV1p_posiVal,stats_AmgV1p_posiVal] = ttest(AMGConn_happy(:,k),AMGConn_neutral(:,k))
-p_AmgV1p_negaVal*14
- 
-
-
+%% generate figure panels in Fig 2
 U=tril(meanFearful)
  
 % making 0s as NaNs
